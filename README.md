@@ -12,4 +12,4 @@ In this tutorial, we will introduce to the general audience what unsupervised pa
 3. [Discriminative Approaches](Part%203%20Discriminative%20Approaches.pdf)
 4. [Special Topics](Part%204%20Special%20Topics.pdf)
 5. [Summary](Part%205%20Summary.pdf)
-6. References (to be added)
+6. [References](References.pdf)
