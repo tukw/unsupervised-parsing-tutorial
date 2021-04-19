@@ -6,10 +6,13 @@ Unsupervised parsing learns a syntactic parser from training sentences without p
 
 In this tutorial, we will introduce to the general audience what unsupervised parsing does and how it can be useful for and beyond syntactic parsing. We will then provide a systematic overview of major classes of approaches to unsupervised parsing, namely generative and discriminative approaches, and analyze their relative strengths and weaknesses. We will cover both decade-old statistical approaches and more recent neural approaches to give the audience a sense of the historical and recent development of the field. We will also discuss emerging research topics such as BERT-based approaches and visually grounded learning.
 
-## Outline
+## Slides
 1. [Introduction](Part%201%20Introduction.pdf)
 2. Generative Approaches ([part a](Part%202%20Generative%20Approaches%20(a).pdf))([part b](Part%202%20Generative%20Approaches%20(b).pdf))
 3. [Discriminative Approaches](Part%203%20Discriminative%20Approaches.pdf)
 4. [Special Topics](Part%204%20Special%20Topics.pdf)
 5. [Summary](Part%205%20Summary.pdf)
 6. [References](References.pdf)
+
+## Video
+https://slideslive.com/38954323/unsupervised-natural-language-parsing
